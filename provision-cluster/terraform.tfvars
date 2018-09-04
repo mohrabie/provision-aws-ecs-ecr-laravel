@@ -1,0 +1,12 @@
+ecs_cluster="noship-cluster"
+ecs_key_pair_name="testship"
+aws_access_key_id = "key"
+aws_secret_access_key = "secret"
+region = "eu-west-1"
+test_vpc = "test_vpc"
+test_network_cidr = "210.0.0.0/16"
+test_public_01_cidr = "210.0.0.0/24"
+test_public_02_cidr = "210.0.10.0/24"
+max_instance_size = 3
+min_instance_size = 1
+desired_capacity = 1
